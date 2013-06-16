@@ -1,0 +1,33 @@
+{
+    "name": "if-sync",
+    "version": "0.0.4",
+    "description": "interface sync tool",
+    "author": {
+        "name": "luics",
+        "email": "luics.xu@gmail.com",
+        "url": "http://luics.github.com"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/luics/if-sync.git"
+    },
+    "bugs": {
+        "url": "http://github.com/luics/if-sync/issues"
+    },
+    "main": "./lib",
+    "engines": {
+        "node": ">= 0.8.0"
+    },
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "http://www.opensource.org/licenses/MIT"
+        }
+    ],
+    "keywords": [
+        "sync",
+        "if",
+        "interface"
+    ],
+    "readmeFilename": "README.md"
+}
