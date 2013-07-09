@@ -7,11 +7,6 @@
 * [if-check](http://demo.tmall.net/toolkit/public/#json.html)，接口校验工具
 * 任何建议都欢迎提给 @鬼道
 
-<style>
-h2{border-bottom: 1px solid lightgray;padding-bottom:2px;}
-h4{border-bottom: 0;}
-</style>
-
 {#extraHtml}
 
 {#content}
